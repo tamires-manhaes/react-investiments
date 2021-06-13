@@ -1,0 +1,10 @@
+Roteiro - react-investiments (Fundo de ações)
+=====================
+
+[x] - Mostrar lista de rendimentos de sete fundos.
+[] - Mostrar dentro de cada fundo total ao topo após o 
+      título e todos os meses listados abaixo.
+
+OBS: o cálculo de rendimentos e prejuízos é : valor do mês anterior em relação ao mês atual
+   - se o resultado for negativo vou um prejuízo, se for positivo é um rendimento.
+
